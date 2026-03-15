@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Silent Signals – AI Safety Companion for Women
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Silent Signals is a prototype safety platform designed to help women discreetly document abuse incidents and detect distress signals.
 
-## Available Scripts
+## Problem
+Many women in abusive or unsafe environments cannot openly ask for help.  
+Communication may be monitored or restricted, making it difficult to report incidents.
 
-In the project directory, you can run:
+## Solution
+Silent Signals provides a discreet platform where users can:
+- Log incidents privately
+- Detect distress signals using text analysis
+- Alert trusted contacts in emergencies
+- Maintain incident history for documentation
 
-### `npm start`
+## Key Features
+- Hidden safety interface
+- Incident logging
+- Distress detection
+- Emergency alert system
+- Trusted contacts
+- Incident history
+- Safety resources and helplines
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technology Used
+- React.js
+- JavaScript
+- Node.js
+- CSS
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Future Improvements
+- Real SMS alerts using Twilio
+- Location sharing
+- Secure encrypted storage
+- AI-based behavioral risk detection
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Demo
+Prototype built for HackHerThon 2026.
